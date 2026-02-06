@@ -30,3 +30,6 @@ sentence-transformers
 
 # Ui streamlit
 streamlit
+
+# email-validator
+email-validator
