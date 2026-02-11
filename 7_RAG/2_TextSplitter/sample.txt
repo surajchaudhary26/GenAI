@@ -1,0 +1,23 @@
+Artificial Intelligence is the simulation of human intelligence in machines. 
+It allows computers to perform tasks that normally require human reasoning, 
+such as decision-making, speech recognition, and visual perception.
+
+Machine Learning is a subset of Artificial Intelligence. 
+It focuses on training algorithms using data so that systems can improve automatically. 
+Supervised learning, unsupervised learning, and reinforcement learning are major categories.
+
+Deep Learning is a specialized area of Machine Learning. 
+It uses neural networks with multiple layers to process complex patterns. 
+Deep learning powers technologies like image recognition and voice assistants.
+
+Cricket is one of the most popular sports in the world. 
+It is especially famous in countries like India, Australia, and England. 
+The Indian Premier League is one of the biggest cricket tournaments globally.
+
+Football is another global sport with billions of fans. 
+Major tournaments like the FIFA World Cup attract international attention. 
+Players like Messi and Ronaldo are known worldwide.
+
+Healthy eating is essential for maintaining physical and mental well-being. 
+A balanced diet includes proteins, carbohydrates, fats, vitamins, and minerals. 
+Regular exercise combined with proper nutrition improves overall health.

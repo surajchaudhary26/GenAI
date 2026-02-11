@@ -38,3 +38,5 @@ email-validator
 langchain-community
 pypdf
 beautifulsoup4
+langchain-text-splitters
+langchain-experimental
