@@ -1,42 +1,24 @@
-# LangChain Core
+# Core LangChain ecosystem
 langchain
-langchain-core
-
-# OpenAI Integration
-langchain-openai
-openai
-
-# Anthropic Integration
-langchain-anthropic
-
-# Google Gemini (PaLM) Integration
-langchain-google-genai
-google-generativeai
-
-# Hugging Face Integration
-langchain-huggingface
-transformers
-huggingface-hub
-
-# Environment Variable Management
-python-dotenv
-
-# Machine Learning Utilities
-numpy
-scikit-learn
-
-# sentence-transformers 
-sentence-transformers
-
-# Ui streamlit
-streamlit
-
-# email-validator
-email-validator
-
-# Rag Components
 langchain-community
+langchain-experimental
+
+# LLM providers
+langchain-openai
+langchain-google-genai
+`
+# Vector DB
+langchain-chroma
+
+# Document loaders
 pypdf
 beautifulsoup4
-langchain-text-splitters
-langchain-experimental
+
+# Environment
+python-dotenv
+
+# UI
+streamlit
+
+# Utilities
+email-validator
