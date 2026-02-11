@@ -98,6 +98,13 @@ This repo is:
 
 ---
 
+## 🙏 Acknowledgment
+
+Part of the learning material in this repository is based on the Generative AI playlist by CampusX.  
+This repo represents my personal notes, implementations, and experiments while following the course.
+
+Thanks to CampusX for creating high-quality educational resources.
+
 ## 👨‍💻 Author
 
 Suraj Chaudhary  
